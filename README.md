@@ -2,7 +2,7 @@ Academic qualifications and training courses:
 
 • Bachelor of Commerce (Accounting specialty), University of Alexandria with average grade: very good / May 1990.
 
-• Courses and experience in the following: (C- C#-Assembly-VB.NET - -PowerBuilder-SQL Server)
+• Courses and experience in the following: (C- C#-Assembly-VB.NET -PowerBuilder-SQL Server)
 
 • Other past experience (Dbase - Novell Networks - NT Server Networks - Visual InterDev - FoxPro - Clipper)
 
